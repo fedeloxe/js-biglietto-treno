@@ -27,3 +27,10 @@ else if (eta > 65){
     let finalPrice = (firstprice - discountvalue).toFixed(2);
     console.log(finalPrice)
 }
+
+else{
+    let finalPrice = firstprice
+    console.log(finalPrice)
+}
+
+
