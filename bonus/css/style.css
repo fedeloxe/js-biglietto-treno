@@ -1,0 +1,29 @@
+*{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: 200px auto;
+    display:flex ;
+    justify-content: center;
+    text-align: center;
+}
+
+.biglietto{
+    padding-top: 200px;
+    background-image: url(https://cdn.pixabay.com/photo/2014/04/02/10/23/ticket-303706_960_720.png);
+    width: 960px;
+    height: 505px;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+span{
+    font-size: 30px;
+}
